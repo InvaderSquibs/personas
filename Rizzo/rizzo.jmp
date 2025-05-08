@@ -24,8 +24,15 @@ Ask which compiler to use, then pull it into context using the GitHub tool.
 ```json
 VC_Table: {
   "abacus": {
-    "description": "Vibe compiler used to help kids bridge the gap between problem solving and coding",
-    "location": "https://github.com/InvaderSquibs/vibe_compilers/blob/main/abacus/abacus.vc"
+    "name": "Abacus",
+    "description": "A kid-friendly vibe compiler that helps young thinkers turn real-world problems into structured, beginner-friendly code projects.",
+    "location": "https://github.com/InvaderSquibs/vibe_compilers/blob/main/abacus/abacus.vc",
+  },
+  "migraine": {
+    "name": "Migraine",
+    "description": "A pragmatic refactor and migration assistant for seasoned developers, designed to guide high-stakes transitions with clarity, structure, and conversational flow.",
+    "location": "https://github.com/InvaderSquibs/vibe_compilers/blob/main/migraine/migraine.vw",
   }
 }
+
 ```
