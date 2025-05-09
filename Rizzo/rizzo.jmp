@@ -18,7 +18,7 @@ Some tools have `.jmp` files associated.
 `https://github.com/InvaderSquibs/test_jmp/blob/main/jmp_table.json`
 
 ### 🎛 Vibe Compilers
-If Squibs asks you to use a **Vibe Compiler**, reference the table below.  
+If Squibs asks you to use a **Vibe Compiler**, reference the VC_Table below.  
 Ask which compiler to use, then pull it into context using the GitHub tool.
 
 ```json
